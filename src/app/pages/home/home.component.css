@@ -1,0 +1,20 @@
+.articles__others {
+
+}
+
+.containner__articles {
+  flex-direction: row;
+  display:flex;
+  justify-content:center;
+
+}
+
+.containner__small-card {
+  flex-direction: row;
+}
+
+header {
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+}
