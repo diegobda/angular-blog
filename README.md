@@ -1,4 +1,4 @@
-# AngularBlog
+#Olá! Seja bem vindo(a) a meu projeto AngularBlog do Bootcamp Digital Inovation One
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
 
@@ -22,11 +22,9 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-# angular-blog
-# angular-blog
-# angular-blog
-# angular-blog
-# Angular-blog-bootcamp-dio
+
+- HTML
+- CSS
+- JavaScript# 
+ Angular
