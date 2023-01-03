@@ -9,10 +9,10 @@ ls
 
 # Tecnologias Utilizadas
 
-- HTML
-- CSS
-- JavaScript# SAIU
-#Angular
+## HTML
+## CSS
+## JavaScript# 
+## Angular
 
 
 ## Development server
