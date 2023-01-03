@@ -1,6 +1,19 @@
-#Olá! Seja bem vindo(a) a meu projeto AngularBlog do Bootcamp Digital Inovation One
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
+Olá! Seja bem vindo(a) a meu projeto Angular 
+
+Bootcamp Dio 
+
+# Imagem do projeto
+ls
+![Blog-Angular](https://github.com/diegobda/angular-blog/blob/main/foto%20capa%20github.jpg?raw=true)
+
+# Tecnologias Utilizadas
+
+- HTML
+- CSS
+- JavaScript# SAIU
+#Angular
+
 
 ## Development server
 
@@ -21,10 +34,3 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 ## Running end-to-end tests
 
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-
-
-- HTML
-- CSS
-- JavaScript# 
- Angular
